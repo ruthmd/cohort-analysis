@@ -1,4 +1,4 @@
-# A cohort analyis of taxi user retention 
+# A cohort analyis of taxi users 
 
 ### spark code for data ingestion and basic analysis in Spark SQL
 `averages_of_aggregated_counts.ipynb` 
